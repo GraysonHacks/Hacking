@@ -49,4 +49,3 @@ await sleep(250);
 document.getElementById("app").firstElementChild.firstElementChild.lastElementChild.children[1].firstElementChild.firstElementChild.lastElementChild.firstElementChild.click();
 data.blooksThisKeyword.blookData[blookName] = parseInt(blookAmount);
 iF.contentWindow.alert("Please click on a blook to update the page.");
-
